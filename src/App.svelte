@@ -1,8 +1,17 @@
 <script>
-	export let name;
+	import About from "./components/About.svelte";
+import Footer from "./components/Footer.svelte";
+	import Hero from "./components/Hero.svelte";
+	import Navbar from "./components/Navbar.svelte"; 
+	import Projects from "./components/Projects.svelte";
+	import Technologies from "./components/Technologies.svelte";
 </script>
 
-<main>
-	<h1 class="text-red-500">Hello {name}!</h1>
-	<p>Visit the <a href="https://svelte.dev/tutorial">Svelte tutorial</a> to learn how to build Svelte apps.</p>
+<main class="min-h-screen w-screen flex items-center flex-col pb-16">
+	<Navbar />
+	<Hero />
+	<Projects />
+	<Technologies />
+	<About />
+	<Footer />
 </main>

@@ -34,7 +34,7 @@ const projects = [
     {
         title: "Alertbot",
         description: "Alertbot is a website to make alerting easy and seemless. Add to servers, create, edit and delete presets, customize bot and send alerts all from one dashboard. - Alerting made easy",
-        thumbnail: "https://cdn.discordapp.com/attachments/810932922306789406/902675407202041876/Screenshot_2021-10-26_23_49_32.png",
+        thumbnail: "https://cdn.discordapp.com/attachments/810932922306789406/904142168296411146/alert.png",
         stack: ["express", "react", "mongodb"],
         code: "https://github.com/thereal-atom/alertbot",
         live: "https://alert-bot.netlify.app",

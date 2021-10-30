@@ -12,7 +12,7 @@ const projects = [
         description: "Tempbot allows you to create and manage temporary roles, channels and vcs as well as self roles and tickets. You can view and config them from a web dashboard",
         thumbnail: "https://cdn.discordapp.com/attachments/810932922306789406/899733066937946122/Frame_2.png",
         stack: ["tailwindcss", "typescript", "svelte", "nodedotjs"],
-        code: "https://github.com/thereal-atom/tempbot",
+        code: "https://github.com/thereal-atom/tempbot-bot",
         live: "https://temp-bot.netlify.app",
     },
     {
@@ -27,7 +27,7 @@ const projects = [
         title: "papr",
         description: "papr is a cryptcurrency paper trading platform. You can open/close positions, view charts, view your holdings and more. It uses firebase for auth.",
         thumbnail: "https://cdn.discordapp.com/attachments/810932922306789406/902675407202041876/Screenshot_2021-10-26_23_49_32.png",
-        stack: ["firebase", "express", "react", "firebase"],
+        stack: ["firebase", "express", "react", "mongodb"],
         code: "https://github.com/thereal-atom/papr",
         live: "https://papr-invest.co.uk",
     },
@@ -37,7 +37,7 @@ const projects = [
         thumbnail: "https://cdn.discordapp.com/attachments/810932922306789406/904142168296411146/alert.png",
         stack: ["express", "react", "mongodb"],
         code: "https://github.com/thereal-atom/alertbot",
-        live: "https://alert-bot.netlify.app",
+        live: "https://alertbot.netlify.app",
     },
     {
         title: "64-bit os",

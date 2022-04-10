@@ -13,7 +13,7 @@
 
 <div class="container">
     <div class="section-title" id="about">About Me</div>
-    <div class="section-text">I started coding at the beginning of 2021 during lockdown. At this time I had started trading crypto currency and some of my friends wanted a discord bot so i learned NodeJS and Discord.js. After a while I started coding websites and servers, becoming a full stack developer.</div>
+                                                            <div class="section-text">I started coding at the beginning of 2021 during lockdown. At this time I had started trading crypto currency and some of my friends wanted a discord bot so i learned NodeJS and Discord.js. After a while I started coding websites and servers, becoming a full stack developer. In 2022 I became interested in DevOps and setup projects with CI/CD, observability, containerization and orchestration.</div>
 </div>
 
 <style>

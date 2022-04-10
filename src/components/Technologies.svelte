@@ -45,27 +45,27 @@
 <div class="container">
     <br />
     <div class="section-title" id="technologies">Technologies</div>
-    <div class="section-text">I've worked with a range a technologies in the web and discord <br />bot devlopment world.</div>
+    <div class="section-text">I've worked with a range a technologies in web development <br />and DevOps engineering.</div>
     <div class="list">
         <div class="list-item">
             <img class="icon" src="/icons/svelte.svg" alt="svelte"/>
             <div class="list-container">
-                <h1 class="list-title">Front End</h1>
-                <p class="list-paragraph">React, svelte and <br/> tailwind</p>
+                <h1 class="list-title">Front-End</h1>
+                <p class="list-paragraph">React, Svelte and <br/> Tailwind</p>
             </div>
         </div>
         <div class="list-item">
             <img class="icon" src="/icons/nodedotjs.svg" alt="node"/>
             <div class="list-container">
-                <h1 class="list-title">Backend End</h1>
-                <p class="list-paragraph">NodeJS, express <br />and Mongo</p>
+                <h1 class="list-title">Backend-End</h1>
+                <p class="list-paragraph">NodeJS, Express <br />and Mongo</p>
             </div>
         </div>
         <div class="list-item">
-            <img class="icon" src="/icons/discord.svg" alt="dc"/>
+            <img class="icon" src="/icons/gcp.svg" alt="gcp"/>
             <div class="list-container">
-                <h1 class="list-title">Bots</h1>
-                <p class="list-paragraph">Discord bots and <br />web dashboards</p>
+                <h1 class="list-title">DevOps</h1>
+                <p class="list-paragraph">GCP, GitHub actions, <br />Docker and Datadog</p>
             </div>
         </div>
     </div>
@@ -76,10 +76,12 @@
         <img class="icon" title="Tailwind" src="/icons/tailwindcss.svg" alt="tw">
         <img class="icon" title="Express" src="/icons/express.svg" alt="ex">
         <img class="icon" title="MongoDB" src="/icons/mongodb.svg" alt="mongo">
+        <img class="icon" title="Prometheus" src="/icons/prom.svg" alt="prom">
         <img class="icon" title="Github" src="/icons/github.svg" alt="gh">
         <img class="icon" title="React" src="/icons/react.svg" alt="react">
         <img class="icon" title="openai" src="/icons/openai.svg" alt="openai">
         <img class="icon" title="JavaScript" src="/icons/javascript.svg" alt="js">
+        <img class="icon" title="GCP" src="/icons/gcp.svg" alt="gcp"/>
         <img class="icon" title="Stripe" src="/icons/stripe.svg" alt="stripe">
         <img class="icon" title="Docker" src="/icons/docker.svg" alt="docker">
     </div>

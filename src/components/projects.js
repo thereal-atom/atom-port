@@ -1,12 +1,12 @@
 const projects = [
-    {
-        title: "Proton",
-        description: "Proton is a multi-purpose discord bot, focused on advanced moderation and logging, tickets, levels all of witch can be managed from a dashboard.",
-        thumbnail: "https://cdn.discordapp.com/attachments/810932922306789406/902667128811970620/proton.png",
-        stack: ["svelte", "express", "nodedotjs"],
-        code: "https://github.com/thereal-atom/proton",
-        live: "https://protonmoderation.com",
-    },
+    // {
+    //     title: "Proton",
+    //     description: "Proton is a multi-purpose discord bot, focused on advanced moderation and logging, tickets, levels all of witch can be managed from a dashboard.",
+    //     thumbnail: "https://cdn.discordapp.com/attachments/810932922306789406/902667128811970620/proton.png",
+    //     stack: ["svelte", "express", "nodedotjs"],
+    //     code: "https://github.com/thereal-atom/proton",
+    //     live: "https://protonmoderation.com",
+    // },
     {
         title: "Tempbot",
         description: "Tempbot allows you to create and manage temporary roles, channels and vcs as well as self roles and tickets. You can view and config them from a web dashboard",
@@ -23,22 +23,22 @@ const projects = [
         code: "https://github.com/thereal-atom/openai.js",
         live: "https://openaijs.org",
     },
-    {
-        title: "papr",
-        description: "papr is a cryptcurrency paper trading platform. You can open/close positions, view charts, view your holdings and more. It uses firebase for auth.",
-        thumbnail: "https://cdn.discordapp.com/attachments/810932922306789406/902675407202041876/Screenshot_2021-10-26_23_49_32.png",
-        stack: ["firebase", "express", "react", "mongodb"],
-        code: "https://github.com/thereal-atom/papr",
-        live: "https://papr-invest.co.uk",
-    },
-    {
-        title: "Alertbot",
-        description: "Alertbot is a website to make alerting easy and seemless. Add to servers, create, edit and delete presets, customize bot and send alerts all from one dashboard. - Alerting made easy",
-        thumbnail: "https://cdn.discordapp.com/attachments/810932922306789406/904142168296411146/alert.png",
-        stack: ["express", "react", "mongodb"],
-        code: "https://github.com/thereal-atom/alertbot",
-        live: "https://alertbot.netlify.app",
-    },
+    // {
+    //     title: "papr",
+    //     description: "papr is a cryptcurrency paper trading platform. You can open/close positions, view charts, view your holdings and more. It uses firebase for auth.",
+    //     thumbnail: "https://cdn.discordapp.com/attachments/810932922306789406/902675407202041876/Screenshot_2021-10-26_23_49_32.png",
+    //     stack: ["firebase", "express", "react", "mongodb"],
+    //     code: "https://github.com/thereal-atom/papr",
+    //     live: "https://papr-invest.co.uk",
+    // },
+    // {
+    //     title: "Alertbot",
+    //     description: "Alertbot is a website to make alerting easy and seemless. Add to servers, create, edit and delete presets, customize bot and send alerts all from one dashboard. - Alerting made easy",
+    //     thumbnail: "https://cdn.discordapp.com/attachments/810932922306789406/904142168296411146/alert.png",
+    //     stack: ["express", "react", "mongodb"],
+    //     code: "https://github.com/thereal-atom/alertbot",
+    //     live: "https://alertbot.netlify.app",
+    // },
     {
         title: "64-bit os",
         description: "Super simple 64-bit operating system built with assembly and C. Can only display text for now but i plan on upgrading it in the future perhaps with a command line.",
@@ -46,6 +46,14 @@ const projects = [
         stack: ["assembly", "docker", "c"],
         code: "https://github.com/thereal-atom/os",
         live: "https://github.com/thereal-atom/os",
+    },
+    {
+        title: "rustkv",
+        description: "Simple in memory key-vale store similar to redis, with focus on good documentation and ease of use. This project was made primarily for learning rust and learning about database architecture.",
+        thumbnail: "https://cdn.discordapp.com/attachments/889223726468579341/962667377491865630/Screenshot_from_2022-04-10_11-56-09.png",
+        stack: ["rust"],
+        code: "https://github.com/thereal-atom/rustkv",
+        live: "https://github.com/thereal-atom/rustkv",
     },
 ];
 

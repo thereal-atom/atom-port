@@ -127,7 +127,7 @@
     <div class="grid-container">
         {#each projects as project}
             <div class="blog-card">
-                <img class="thumbnail" src={project.thumbnail} alt="proton"/>
+                <img class="thumbnail" src={project.thumbnail} alt="{project.title}"/>
                 <div class="title-content">
                     <p>{project.title}</p>
                     <hr />
@@ -138,7 +138,7 @@
                     <div class="title-content">Stack</div>
                     <div class="tag-list">
                         {#each project.stack as tech}
-                            <img class="icon" src="/icons/{tech}.svg" alt="react"/>
+                            <img class="icon" src="/icons/{tech}.svg" alt="{tech}"/>
                         {/each}
                     </div>
                 </div>

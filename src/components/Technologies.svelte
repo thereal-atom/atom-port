@@ -76,12 +76,9 @@
         <img class="icon" title="Tailwind" src="/icons/tailwindcss.svg" alt="tw">
         <img class="icon" title="Express" src="/icons/express.svg" alt="ex">
         <img class="icon" title="MongoDB" src="/icons/mongodb.svg" alt="mongo">
-        <img class="icon" title="Prometheus" src="/icons/prom.svg" alt="prom">
         <img class="icon" title="Github" src="/icons/github.svg" alt="gh">
-        <img class="icon" title="React" src="/icons/react.svg" alt="react">
-        <img class="icon" title="openai" src="/icons/openai.svg" alt="openai">
-        <img class="icon" title="JavaScript" src="/icons/javascript.svg" alt="js">
         <img class="icon" title="GCP" src="/icons/gcp.svg" alt="gcp"/>
+        <img class="icon" title="Rust" src="/icons/rust.svg" alt="rust"/>
         <img class="icon" title="Stripe" src="/icons/stripe.svg" alt="stripe">
         <img class="icon" title="Docker" src="/icons/docker.svg" alt="docker">
     </div>

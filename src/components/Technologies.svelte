@@ -1,51 +1,7 @@
-<!-- <div class="section">
-    <h1 class="text-7xl heading" >Technologies</h1>
-    <p class="description">I've worked with a range a technologies in the web and discord <br />bot devlopment world.</p>
-    <div class="w-10/12 mt-16 flex justify-between">
-        <div>
-            <img src="/icons/svelte.svg" alt="svelte">
-            <h2 class="text-2xl font-bold pt-1">Front End</h2>
-            <p class="text-lg pt-2 opacity-80">React, svelte and <br/> tailwind</p>
-        </div>
-        <div>
-            <img src="/icons/nodedotjs.svg" alt="tech">
-            <img src="/icons/nestjs.svg" alt="nestjs">
-            <h2 class="text-2xl font-bold pt-1">Back End</h2>
-            <p class="text-lg pt-2 opacity-80">NodeJS, express <br />and Mongo</p> 
-        </div>
-        <div>
-            <img src="/icons/discord.svg" alt="nestjs">
-            <h2 class="text-2xl font-bold pt-1">Discord bots</h2>
-            <p class="text-lg pt-2 opacity-80">Discord bots and <br />web dashboards</p>
-        </div>
-    </div>
-    <p class="description">I also work with</p>
-    <div class="flex flex-row w-full items-center justify-between h-32">
-        <img src="/icons/nodedotjs.svg" alt="tech">
-        <img title="TypeScript" src="/icons/typescript.svg" alt="ts">
-        <img title="Tailwind" src="/icons/tailwindcss.svg" alt="tw">
-        <img title="Express" src="/icons/express.svg" alt="ex">
-        <img title="MongoDB" src="/icons/mongodb.svg" alt="mongo">
-        <img title="Github" src="/icons/github.svg" alt="gh">
-        <img title="React" src="/icons/react.svg" alt="react">
-        <img title="openai" src="/icons/openai.svg" alt="openai">
-        <img title="JavaScript" src="/icons/javascript.svg" alt="js">
-        <img title="Stripe" src="/icons/stripe.svg" alt="stripe">
-        <img title="Docker" src="/icons/docker.svg" alt="docker">
-    </div>
-    <div class="w-16 h-2 bg-purple-500 mt-16 rounded-full break"><p class="opacity-0">a</p></div>
-</div>
-
-<style>
-    img{
-        width: 32px;
-    }
-</style> -->
-
 <div class="container">
     <br />
     <div class="section-title" id="technologies">Technologies</div>
-    <div class="section-text">I've worked with a range a technologies in web development <br />and DevOps engineering.</div>
+    <div class="section-text">I've worked with a range a technologies in web development and DevOps.</div>
     <div class="list">
         <div class="list-item">
             <img class="icon" src="/icons/svelte.svg" alt="svelte"/>
@@ -58,14 +14,14 @@
             <img class="icon" src="/icons/nodedotjs.svg" alt="node"/>
             <div class="list-container">
                 <h1 class="list-title">Backend-End</h1>
-                <p class="list-paragraph">NodeJS, Express <br />and Mongo</p>
+                <p class="list-paragraph">NodeJS, Express <br />and MySQL</p>
             </div>
         </div>
         <div class="list-item">
             <img class="icon" src="/icons/gcp.svg" alt="gcp"/>
             <div class="list-container">
                 <h1 class="list-title">DevOps</h1>
-                <p class="list-paragraph">GCP, GitHub actions, <br />Docker and Datadog</p>
+                <p class="list-paragraph">GCP, GitHub actions, <br />and Logtail</p>
             </div>
         </div>
     </div>
@@ -113,6 +69,7 @@
     .list-container{
         display: flex;
         flex-direction: column;
+        margin-top: 2px;
     }
     .list-title {
         font-weight: 700;

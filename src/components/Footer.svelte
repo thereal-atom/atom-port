@@ -1,16 +1,16 @@
 <div class="footer-wrapper">
     <div class="link-list">
-        <a target="_blank" rel="noopener" href="https://discordapp.com/users/313202630023315487" class="link-column">
+        <a target="_blank" rel="noopener" href="https://discordapp.com/users/806657133960495154" class="link-column">
             <div class="link-title">Discord</div>
-            <div class="link-item">Atomツ🎃#6969</div>
+            <div class="link-item">oscarッ#0671</div>
         </a>
         <a target="_blank" rel="noopener" href="https://github.com/thereal-atom" class="link-column">
             <div class="link-title">Github</div>
             <div class="link-item">thereal-atom</div>
         </a>
-        <a target="_blank" rel="noopener" href="https://twitter.com/thereal_atom" class="link-column">
+        <a target="_blank" rel="noopener" href="https://twitter.com/oscarfalll" class="link-column">
             <div class="link-title">Twitter</div>
-            <div class="link-item">thereal_atom</div>
+            <div class="link-item">oscarfalll</div>
         </a>
     </div>
 </div>

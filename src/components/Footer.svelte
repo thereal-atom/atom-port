@@ -10,7 +10,7 @@
         </a>
         <a target="_blank" rel="noopener" href="https://twitter.com/oscarfalll" class="link-column">
             <div class="link-title">Twitter</div>
-            <div class="link-item">oscarfalll</div>
+            <div class="link-item">@oscarfalll</div>
         </a>
     </div>
 </div>

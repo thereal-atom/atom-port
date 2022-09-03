@@ -12,9 +12,9 @@
 <main>
 	<Navbar />
 	<Hero />
-    <div class="break"><p>a</p></div>
+    <div class="break"></div>
 	<Projects />
-    <div class="break"><p>a</p></div>
+    <div class="break"></div>
 	<Technologies />
 	<About />
 	<Footer />
